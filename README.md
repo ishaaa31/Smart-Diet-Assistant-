@@ -2,7 +2,7 @@
 
 WEBSITE - FRONTEND https://daily-diet.pages.dev/
 
-API - BACKEND
+API - BACKEND https://web-production-a61c.up.railway.app/
 
 # Table of contents
 • About the project
