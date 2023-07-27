@@ -33,6 +33,6 @@ npm start
 npm test
 
 # More info
-How to CONTRIBUTE
 
+How to CONTRIBUTE
 React official site
