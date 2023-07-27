@@ -1,6 +1,6 @@
 # Daily Diet
 
-WEBSITE - FRONTEND
+WEBSITE - FRONTEND https://daily-diet.pages.dev/
 
 API - BACKEND
 
