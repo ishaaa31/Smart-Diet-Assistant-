@@ -22,7 +22,7 @@ node.js >= 10.16 npm >= 5.6 Download and install both.
 1. Download all the files from this repository.
 2. Go to your project folder.
 3. Install production dependencies.
-npm install --production
+  npm install --production
 4. Build the app.
 npm run build
 The build folder will appear in the project directory.
